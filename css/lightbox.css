@@ -1,6 +1,6 @@
 /* Preload images */
 body:after {
-  content: url(../images/close.png) url(../images/prev.png) url(../images/next.png);
+  content: url(https://i.imgur.com/BE62BSH.png) url(https://i.imgur.com/5aqGfCt.png) url(https://i.imgur.com/mNXcUFV.png);
   display: none;
 }
 
@@ -191,7 +191,7 @@ body:after {
   float: right;
   width: 30px;
   height: 30px;
-  background: url(../images/close.png) top right no-repeat;
+  background: url(https://i.imgur.com/pZJCesi.png) top right no-repeat;
   text-align: right;
   outline: none;
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70);
