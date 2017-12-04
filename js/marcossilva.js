@@ -1,7 +1,7 @@
  $(window).load( function() {  
 
                          $('#mycalendar').monthly({
-                         mode: 'event',\n"
+                         mode: 'event',
 
                          });
 
